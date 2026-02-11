@@ -18,7 +18,7 @@ def operations(a, b):
     print("Division:", a / b)
 
 operations(20, 4)
-
+     
 
 
 # Q3 — If…elif…else (positive, negative, zero)

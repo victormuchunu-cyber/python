@@ -1,0 +1,11 @@
+# We can import the function created in lesson6a module and use them on this file
+
+# METHOD 1
+# In this case you import the entire modul (lesson6a)into ths particular file.
+import lesson6a
+
+#  Aceess the functions in the given module.
+# To access  the functions in the previous module you can us the dot separator
+lesson6a.add()
+lesson6a.subtract()
+lesson6a.rectangleArea()
